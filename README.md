@@ -1,3 +1,3 @@
 ## Let's learn GIT
 
-##"H" made a change"
+## How to get started
